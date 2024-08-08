@@ -19,3 +19,11 @@ function printHelloWorld() {
   console.log('Hello, World!');
 }
 ```
+
+step - 4
+
+I add a task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
